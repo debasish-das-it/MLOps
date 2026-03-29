@@ -95,4 +95,4 @@ if st.button("Predict Purchase Likelihood", use_container_width=True):
 
 # Footer
 st.markdown("---")
-st.caption("Powered by Visit with Us MLOps Pipeline | Prediction Model v1.0 | Confidence Threshold: 45%")
+st.caption("Prediction Model v1.0 | Confidence Threshold: 45%")
